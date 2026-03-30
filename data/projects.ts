@@ -55,24 +55,6 @@ export const projects: Project[] = [
     demo: 'https://foncier-demo.vercel.app'
   },
   {
-    id: 'cncj',
-    title: 'CNCJ - Ministère de la Justice',
-    description: 'Application de gestion pour la Commission Nationale',
-    longDescription: 'Développement de modules frontend et backend pour la gestion des dossiers et procédures au sein du Ministère de la Justice.',
-    image: '/projects/cncj.jpg',
-    technologies: ['Vue.js', 'Laravel', 'Bootstrap', 'MySQL'],
-    category: 'fullstack',
-    client: 'Ministère de la Justice et de la Législation',
-    year: '2024',
-    role: 'Développeur Full-Stack',
-    features: [
-      'Pages dynamiques avec Vue.js',
-      'Intégration API REST',
-      'Interface administrateur',
-      'Gestion des utilisateurs'
-    ]
-  },
-  {
     id: 'ecommerce-laravel',
     title: 'E-Commerce Laravel',
     description: 'Plateforme e-commerce complète avec panier et paiement',
